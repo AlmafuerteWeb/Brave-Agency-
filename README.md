@@ -1,5 +1,5 @@
 # Brave-Agency-
-Portfolio de maquetado
+Portfolio de maquetado responsivo
 
 HTML
 CSS
